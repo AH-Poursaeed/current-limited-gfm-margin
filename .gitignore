@@ -1,0 +1,24 @@
+# results written by the scripts (our copies are kept in data/)
+/smib/*.csv
+/smib/*.png
+/smib/*.mat
+/ieee14/*.csv
+/ieee14/*.png
+/ieee14/*.mat
+/pscad/*.csv
+
+# MATLAB
+*.asv
+*.m~
+*.autosave
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS and editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

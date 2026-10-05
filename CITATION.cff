@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: >-
+  Code for "Current-Limited Grid-Forming Converter Clusters in
+  Inverter-Dominated Grids: A Transient Stability Margin Framework"
+type: software
+license: MIT
+authors:
+  - family-names: Poursaeed
+    given-names: Amir Hossein
+    affiliation: University of Exeter
+  - family-names: Namdari
+    given-names: Farhad
+    affiliation: University of Exeter
+  - family-names: Shen
+    given-names: Shuhang
+    affiliation: University of Exeter
+  - family-names: Crossley
+    given-names: Peter A.
+    affiliation: University of Manchester
+keywords:
+  - grid-forming converter
+  - transient stability
+  - current limiting
+  - critical clearing time
+  - Thevenin equivalent
+preferred-citation:
+  type: article
+  title: >-
+    Current-Limited Grid-Forming Converter Clusters in Inverter-Dominated
+    Grids: A Transient Stability Margin Framework
+  authors:
+    - family-names: Poursaeed
+      given-names: Amir Hossein
+    - family-names: Namdari
+      given-names: Farhad
+    - family-names: Shen
+      given-names: Shuhang
+    - family-names: Crossley
+      given-names: Peter A.
+  journal: IEEE Transactions on Industry Applications
+  year: 2026
+  doi: 10.1109/TIA.2026.3738689
+  status: advance-online

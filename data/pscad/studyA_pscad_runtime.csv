@@ -1,0 +1,17 @@
+field,value
+machine,Windows-11-10.0.26100-SP0
+processor,"Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"
+python,3.14.2
+project,ieee_14_bus_IAS
+sim_duration_s,5.0
+sim_time_step,5.0
+cold_run_s,173.873
+warm_run_1_s,124.098
+warm_run_2_s,117.181
+warm_run_3_s,110.136
+warm_run_4_s,119.568
+warm_run_5_s,111.178
+warm_mean_s,116.432
+warm_min_s,110.136
+warm_std_s,5.223
+compile_estimate_s,57.441
